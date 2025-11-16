@@ -8,7 +8,7 @@
 ## Dataset
 
 - **Source**: [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+disease)
-- **File**: `data/heart.csv` (included in repo)
+- **File**: `heart.csv` (included in repo)
 - **Features**:
   - `age`, `sex`, `cp` (chest pain), `trestbps` (resting BP), `chol` (cholesterol), etc.
   - `target`: 1 = heart disease, 0 = no disease
