@@ -17,6 +17,6 @@
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/heart-disease-prediction.git
+git clone https://github.com/Rabie62/heart-disease-prediction.git
 cd heart-disease-prediction
 pip install -r requirements.txt
